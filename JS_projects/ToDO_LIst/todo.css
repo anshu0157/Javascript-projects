@@ -1,0 +1,32 @@
+body h1{
+    font-size:2rem;
+    font-weight:100;
+    color:#040A0A;
+    font-family: 'poppins','sans-serif';
+}
+body h1 span{
+    color:#02EBD7;
+}
+
+.todo .mb-3 .form-label{
+    font-size:2rem;
+    font-weight:100;
+    color:#040A0A;
+    font-family: 'poppins','sans-serif';
+}
+.todo .mb-3 .descr{
+    height:190px;
+}
+
+.todo .btn{
+    padding:0.5rem 2rem;
+    
+}
+.todo .btn:hover{
+    background:#02EBD7;
+    color:#040A0A;
+    font-weight:bold;
+    outline:none;
+    
+    
+}
